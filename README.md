@@ -1,8 +1,3 @@
-
-<p align="center">
-  <img src="https://your-banner-url.com/banner.png" alt="Justin Haby Banner" />
-</p>
-
 # Hi, I'm Justin Haby
 
 Hey there!  
