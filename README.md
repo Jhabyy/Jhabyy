@@ -41,9 +41,8 @@ Integrate systems across Rally, Slack, and email with robust alerting
 
 ## :bar_chart: GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jhabyy&show_icons=true&theme=radical)
+![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhabyy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhabyy&layout=compact&theme=radical)
-
 ---
 
 ## :link: Connect with Me
